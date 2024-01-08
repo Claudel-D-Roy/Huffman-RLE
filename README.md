@@ -1,6 +1,7 @@
 # Huffman - RLE
 
-Project carried out during the fourth session of my computer science program.
+Project carried out during the fourth session of my software development program.
+
 
 ## Instructions
 
